@@ -1,0 +1,5 @@
+zone "ricardo_verissimo_pereira.com" {
+    type master;
+    file "/etc/bind/db.ricardo_verissimo_pereira.com";
+};
+
